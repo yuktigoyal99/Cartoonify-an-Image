@@ -1,7 +1,7 @@
-import cv2 #for image processing
-import easygui #to open the filebox
-import numpy as np #to store image
-import imageio #to read image stored at particular path
+import cv2 
+import easygui 
+import numpy as np 
+import imageio 
 
 import sys
 import matplotlib.pyplot as plt
